@@ -8,7 +8,7 @@
 
 - 👀 I’m currently working on ... bringing value to businesses and financial markets with Big Data and Artifical Intelligence.
 - 🌱 I’m currently learning ... everything I can about data.
-- 💞️ I’m looking to collaborate on ... interesting projects especially related to Artificial Intelligence, Cloud and Time Series!
+- 💞️ I’m looking to collaborate on ... interesting projects especially related to Artificial Intelligence, Cloud and Time Series.
 - 📚 I have probably ... read every book about Artifical Intelligence and Investing.
 - 💬 Ask me about ... Artificial Intelligence, Big Data or Financial Markets.
 <br/>
